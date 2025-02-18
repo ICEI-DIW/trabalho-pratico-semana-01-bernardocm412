@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Bernardo Carvalho Mascarenhas
+Matricula: 1319990
 
 ## Tela de inspeção com navegador
-
+![Print da inspeção com o navegador](img/print%20network.png)
 
 ## Tela de projeto no Replit
-
+![Print do projeto no replit](img/print%20hello.png)
